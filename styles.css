@@ -1,0 +1,19 @@
+.odd-row {
+    background-color: #e2e0e0;
+}
+
+.even-row {
+    background-color: #ffffff;
+}
+
+th, td {
+    border: 1px solid #000000;
+}
+
+th {
+    text-align: left;
+}
+
+table {
+    background-color: rgb(146, 146, 146)
+}
